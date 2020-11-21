@@ -173,6 +173,11 @@ input {
      top: 29px;
 		
 	}
+	
+	article .col-md-2{
+		width:50%!important;
+		float:left;
+	}
 }
 
 
